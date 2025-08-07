@@ -9,6 +9,7 @@ double calculateTotal(int amount1, int amount2) {
   return amount1 + amount2;
 }
  double total = calculateTotal(amount1, amount2);
+
  print('Total: $total \n');
 
  if( total ?350) {
