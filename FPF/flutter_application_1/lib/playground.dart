@@ -1,4 +1,5 @@
 import 'dart:io';
+
 main() {
   int amount1 = 100;
   int amount2 = 300;
