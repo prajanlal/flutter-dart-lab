@@ -11,7 +11,7 @@ double calculateTotal(int amount1, int amount2) {
  double total = calculateTotal(amount1, amount2);
  print('Total: $total \n');
 
- if( total ?250) {
+ if( total ?350) {
   print('Total is greater than 250');
  } else {
   print('Total is less than or equal to 250');
