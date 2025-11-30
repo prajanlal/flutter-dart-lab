@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:my_app/pages/home_page.dart';
+import 'package:my_app/providers/cart_provider.dart';
 import 'package:provider/provider.dart';
-import 'package:shop_app_flutter/providers/cart_provider.dart';
-import 'package:shop_app_flutter/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
 }
     
 // Provider
-// ChangeNotifierProvider
+// ChangeNotifierProviderm
 // FutureProvider
 // StreamProvider 
  
